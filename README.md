@@ -1,6 +1,4 @@
-Here’s a proper `README.md` file for your repository:
 
-```markdown
 # PHP Driving License Management System
 
 A web-based application built using PHP for managing driving license processes, including application, health tests, practical tests, and license issuance.
